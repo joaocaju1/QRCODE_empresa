@@ -1,0 +1,38 @@
+.titulo{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.conteudo{
+    align-items: center;
+    justify-content: center;
+
+    width: 500px;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+
+}
+
+.qrcode{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+
+}
