@@ -36,7 +36,7 @@ h2{
     align-items: center;
     justify-content: center;
     width: auto;
-
+    font-family: 'Roboto', sans-serif;
 }
 
 .qrcode{
